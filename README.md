@@ -102,7 +102,7 @@ No authentication required.
 1. Clone repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/subayks/CandySpace.git
 ```
 
 2. Open:
