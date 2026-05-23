@@ -136,30 +136,6 @@ CMD + U
 - Some image URLs may be empty
 
 ---
-
-# Tradeoffs
-
-Given the 4–6 hour suggested timebox:
-- prioritised architecture clarity
-- focused on performance-aware UI
-- kept dependencies minimal
-- avoided unnecessary abstraction
-
----
-
-# Future Improvements
-
-Possible enhancements:
-- Skeleton loading states
-- Offline persistence
-- Detail screens
-- Pagination
-- Accessibility improvements
-- Snapshot testing
-- Analytics integration
-
----
-
 # Author
 
 Subendran Kumaravel
