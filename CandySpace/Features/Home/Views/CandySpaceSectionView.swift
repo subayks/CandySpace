@@ -25,7 +25,7 @@ struct CandySpaceSectionView: View {
 
             ScrollView(.horizontal, showsIndicators: false) {
 
-                LazyHStack(spacing: UIConstants.railSpacing) {
+                LazyHStack(alignment: .top, spacing: UIConstants.railSpacing) {
 
                     ForEach(section.items ?? []) { item in
                         CandySpaceItemView(
