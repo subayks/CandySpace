@@ -136,6 +136,17 @@ CMD + U
 - Some image URLs may be empty
 
 ---
+
+# Tradeoffs
+
+Given the 4–6 hour suggested timebox:
+- prioritised architecture clarity
+- focused on performance-aware UI
+- kept dependencies minimal
+- avoided unnecessary abstraction
+
+---
+
 # Author
 
 Subendran Kumaravel
